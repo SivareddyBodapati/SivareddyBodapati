@@ -1,4 +1,4 @@
-<img width="50%" src="data-scientist.jpg" >
+<p style="text-align:center;"> <img src="data-scientist.jpg" > </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Myself Sivareddy Bodapati</h1>
 <h3 align="center">I'm a passionate Data Scientist from India, Currently living in Hannover, Germany.</h3>
 
