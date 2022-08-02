@@ -1,11 +1,11 @@
-<p style="text-align:center;"> <img src="data-scientist.jpg" > </p>
+<p align="center"> <img src="data-scientist.jpg" width="40%"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Myself Sivareddy Bodapati</h1>
 <h3 align="center">I'm a passionate Data Scientist from India, Currently living in Hannover, Germany.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently looking for a ** Data Scientist Role **
+- 🔭 I’m currently looking for a **Data Scientist Role**
 
 - 🌱 I’m currently learning **Data Structures, AWS, and Transformers**
 
