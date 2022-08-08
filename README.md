@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sivareddy3244@gmail.com**
 
-- ⚡ Fun fact **I play games, dance and play sports very often.**
+- ⚡ Fun fact **I watch movies, dance and play sports very often.**
 
 ## 🚀 Languages and Tools:
 
