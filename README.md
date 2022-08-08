@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SivareddyBodapati)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SivareddyBodapati?tab=repositories)**
 
 - 📫 How to reach me **sivareddy3244@gmail.com**
 
