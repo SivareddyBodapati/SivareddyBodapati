@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures,Algorithms, AWS, NoSQL and Transformers**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SivareddyBodapati?tab=repositories)**
 
