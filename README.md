@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for a **Data Scientist Role**
 
-- 🌱 I’m currently learning **Data Structures,Algorithms, AWS and DevOps*
+- 🌱 I’m currently learning **Data Structures,Algorithms, AWS and DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
