@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently looking for a **Data Engineer Role**
+- 🔭 I’m currently looking for a **Senior Data Engineer Role**
 
-- 🌱 I’m currently learning **Data Structures,Algorithms, AWS and DevOps**
+- 🌱 I’m currently learning **Databricks**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
