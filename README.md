@@ -46,7 +46,7 @@
 <p align="left">
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></a>
   <a href="https://www.snowflake.com/"><img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" width="48"/></a>
-  <a href="https://www.getdbt.com/"><img src="https://avatars.githubusercontent.com/u/1236780?s=200&v=4" width="48"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="48"/></a>
   <a href="https://www.databricks.com/"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="48"/></a>
 </p>
 
