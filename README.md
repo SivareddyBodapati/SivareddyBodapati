@@ -1,13 +1,13 @@
 <p align="center"> <img src="data-scientist.jpg" width="40%"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Myself Sivareddy Bodapati</h1>
-<h3 align="center">I'm a passionate AI Engineer, Currently living in Berlin, Germany.</h3>
+<h3 align="center">I'm a passionate AI Engineer, Currently living in Potsdam, Germany.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently looking for a **Senior Data & Analytics Engineer Role**
 
-- 🌱 I’m currently learning **Databricks**
+- 🌱 I’m currently doing a certification course **Azure Data Engineer & Analyst | Microsoft Fabric | DP-203 | DP-600 | DP-700**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
