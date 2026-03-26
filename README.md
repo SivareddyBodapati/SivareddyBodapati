@@ -1,6 +1,6 @@
 <p align="center"> <img src="data-scientist.jpg" width="40%"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Myself Sivareddy Bodapati</h1>
-<h3 align="center">I'm a passionate AI Engineer, Currently living in Potsdam, Germany.</h3>
+<h3 align="center">I'm a passionate Data & Analytics Engineer, Currently living in Potsdam, Germany.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -46,7 +46,7 @@
 <p align="left">
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></a>
   <a href="https://www.snowflake.com/"><img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" width="48"/></a>
-  <a href="https://www.getdbt.com/"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="48"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg" width="48"/></a>
   <a href="https://www.databricks.com/"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="48"/></a>
 </p>
 
