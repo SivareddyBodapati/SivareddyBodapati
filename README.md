@@ -19,20 +19,49 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://numpy.org/" target="_blank"> <img src="https://dggulaitutorial.com/wp-content/uploads/2021/12/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50"/> </a> 
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" width="60" height="50"/> </a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="60" height="50"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="50"/> </a>
-    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://eduardovra.github.io/assets/img/flask-logo.png" width="60" height="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<h3 align="left">💻 Tech Stack</h3>
+
+<!-- Programming & ML -->
+<h4>🧠 Programming & Machine Learning</h4>
+<p align="left">
+  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/python.png"/></a>
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/></a>
+  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/></a>
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/></a>
+</p>
+
+<!-- Web Development -->
+<h4>🌐 Web Development</h4>
+<p align="left">
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/javascript.png"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/html-5.png"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/css3.png"/></a>
+  <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/></a>
+</p>
+
+<!-- Data Engineering & Databases -->
+<h4>📊 Data Engineering & Databases</h4>
+<p align="left">
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></a>
+  <a href="https://www.snowflake.com/"><img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" width="48"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://avatars.githubusercontent.com/u/1236780?s=200&v=4" width="48"/></a>
+  <a href="https://www.databricks.com/"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="48"/></a>
+</p>
+
+<!-- Cloud -->
+<h4>☁️ Cloud Platforms</h4>
+<p align="left">
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/amazon-web-services.png"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/48/azure-1.png"/></a>
+</p>
+
+<!-- Tools -->
+<h4>🛠️ Tools</h4>
+<p align="left">
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
